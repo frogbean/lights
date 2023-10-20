@@ -1,0 +1,26 @@
+{
+  "name": "lights",
+  "version": "1.0.0",
+  "description": "Set rgb lights on a PC to a single color",
+  "main": "rgb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frogbean/lights.git"
+  },
+  "keywords": [
+    "computer",
+    "lights",
+    "rgb",
+    "light",
+    "control"
+  ],
+  "author": "frogbean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frogbean/lights/issues"
+  },
+  "homepage": "https://github.com/frogbean/lights#readme"
+}
